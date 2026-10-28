@@ -1,0 +1,318 @@
+{
+  "schema": 1,
+  "protocol": 1,
+  "entrypoint": "run.cjs",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "bytes": 8
+    },
+    {
+      "path": "README.md",
+      "sha256": "4476de86e8c16e4474297d33ca2a8600b55660df339055c5b9ed2936027e3aca",
+      "bytes": 3192
+    },
+    {
+      "path": "media/sharing-config.json",
+      "sha256": "e4c417da43d5ffc422dc24b8003c883de3b387a9cebbda20ccf716ceac24eea4",
+      "bytes": 228
+    },
+    {
+      "path": "run.cjs",
+      "sha256": "e25eaae75cbfb8808590219c81b09b81ca102bcd3892fdfa51f7b0e8c8a16966",
+      "bytes": 10067
+    },
+    {
+      "path": "runtime-lock.json",
+      "sha256": "2c9399d333fe1b5e0645d9aea98abc3f4ea8ebf4b9660cb4fbe8aa44860577bb",
+      "bytes": 2620
+    },
+    {
+      "path": "src/core-contract.js",
+      "sha256": "a260b144cd34165e752179605b0b15af1a9e3fdd6fffd6ab2167762ac6b8969d",
+      "bytes": 6866
+    },
+    {
+      "path": "src/project-builder-format.js",
+      "sha256": "bbed9d4bc77187dc6a3a52d46afc034ac16f9257a876617122a2a9cbaf335632",
+      "bytes": 6059
+    },
+    {
+      "path": "src/project-pom.js",
+      "sha256": "d6a50b9b641d3fc159385ec1fe1530c1adf43b0fb8c5530e2bb89c68a18cc09f",
+      "bytes": 9183
+    },
+    {
+      "path": "src/sharing/authoring.js",
+      "sha256": "ad6b5ef3b2e573a3bb5eb37f2f04090c234d577b1cb43e80a63e82c87818cc5b",
+      "bytes": 32737
+    },
+    {
+      "path": "src/sharing/configuration.js",
+      "sha256": "7d1e48565fcd20106c276ca4adc4d2e6f216ee505b46c98a717285e37514afb3",
+      "bytes": 1628
+    },
+    {
+      "path": "src/sharing/consumer.js",
+      "sha256": "3913d6cb6af8f0e34438cf9676b6c9004223f69f743af5f1baae1459fe805abe",
+      "bytes": 21247
+    },
+    {
+      "path": "src/sharing/contracts.js",
+      "sha256": "4f4c18b353429c88772edd72d833a8ce4c6226927f99f66e8a0bd94e08bfc062",
+      "bytes": 17138
+    },
+    {
+      "path": "src/sharing/jar.js",
+      "sha256": "8dae24bbaea527e3da2e7db9975108a8968321441438f204b939fec77874f78d",
+      "bytes": 5768
+    },
+    {
+      "path": "src/sharing/tutorial-practice.js",
+      "sha256": "6ab04a5abf7b362c61de199642b1a915b79f852e34e6b5cc021e64987a1794fc",
+      "bytes": 764
+    },
+    {
+      "path": "src/web-export/README.md",
+      "sha256": "78980b0dac6b9daaf5f84d971e1d3cce6e703bf5c0da078f1ded65a3f4777312",
+      "bytes": 4570
+    },
+    {
+      "path": "src/web-export/adapters/README.md",
+      "sha256": "9e73083a7e12c8a6f8957b67b110a0f7143746e2d7df6aa4546ea3f31dbea738",
+      "bytes": 5229
+    },
+    {
+      "path": "src/web-export/adapters/index.js",
+      "sha256": "1d2f04301cca5e81caef9e1abc357358fee93d7beedc13a16a4ac2ba1d396f12",
+      "bytes": 15910
+    },
+    {
+      "path": "src/web-export/adapters/runtime/javafx/scene/ZeroDisabledState.java",
+      "sha256": "0281a82bfbfb61136f193f810ec2351d0c3c7021fa5f613384003c6b1bf13a28",
+      "bytes": 2102
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserAccess.java",
+      "sha256": "4ac1acb05a4feea53a70ceecab2681d8c10c7a5c57039d517957f5cc232beebc",
+      "bytes": 723
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserConsoleProvider.java",
+      "sha256": "7e3b3c3902dcdc9ec284d1d5582cd90d000072e7dba3cea4b21c83041d048ae7",
+      "bytes": 766
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserFocus.java",
+      "sha256": "cab51349ba061a626b77ce0426a357e5f91f1ce020434d52d31063032ed12e8f",
+      "bytes": 1134
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserGameViewport.java",
+      "sha256": "a856795806f3c62a17c2041def5b5191cabc4b602c74c968b95d31c05fea2452",
+      "bytes": 13201
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserImages.java",
+      "sha256": "01e277c03e64a44ddad4f9a3f79c566fad879b262293e9acf144a2cce5703830",
+      "bytes": 548
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserLauncher.java",
+      "sha256": "0755e86629629f3298ddbb5c3a03b45e433f74ebafa61317366ef6b18ff5507b",
+      "bytes": 4482
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserLifecycle.java",
+      "sha256": "69929e6f08daf5e111257114c679fc0cd9d9c553efe6c1b77b833295ef715b76",
+      "bytes": 1796
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserRuntime.java",
+      "sha256": "f89340ad1908d14a47c7de47d3acef3a1fca41cb5dc491fad3c84bf419c24e38",
+      "bytes": 2775
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/BrowserUiFocus.java",
+      "sha256": "5474696007e48795da42c13c8650f4ee2daaea19001091327aa84b81431cfae9",
+      "bytes": 1130
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/ResourceURL.java",
+      "sha256": "78423edbc9e5ddc896ef93e0e59bf0e35d49b73c094402d4c5f0b84b1e1a656d",
+      "bytes": 309
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/Resources.java",
+      "sha256": "ea2a4ca52ab86ee3a5422829b048b752fe9daa184fa87fa0cb400637a35e91cd",
+      "bytes": 1599
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/media/AudioClip.java",
+      "sha256": "d303188ec2887a958943bedcea450e9ccd1426ba109cd33b548eae789bd7da60",
+      "bytes": 2523
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/media/BrowserSound.java",
+      "sha256": "76bd7dcd889cc6b41e0995bd09b58916bf277d7914c853d9a40a63039e5bc56c",
+      "bytes": 4845
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/media/Media.java",
+      "sha256": "a04014f138ae03e2a23b33aebf68696a4de8c9973e4e7b26a2fcfcae4041fa2a",
+      "bytes": 678
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/media/MediaException.java",
+      "sha256": "89dab76f3b29549500d09e79ee30679918a3fbfaab229a1322c9e71e45bbb9a0",
+      "bytes": 149
+    },
+    {
+      "path": "src/web-export/adapters/runtime/zero/web/media/MediaPlayer.java",
+      "sha256": "af9dd3a0a361a4bc69ee4c3ae432800d9d17037ed3063c67fa112afd985f6d4f",
+      "bytes": 3459
+    },
+    {
+      "path": "src/web-export/build-lock.js",
+      "sha256": "5d74ed92c36f7da7bfc2e3dbc71dc8a4370af86e32c04ac576b4857b8a83a972",
+      "bytes": 10147
+    },
+    {
+      "path": "src/web-export/compatibility/CheckCompatibility.java",
+      "sha256": "0856137c0d2adaf5d03ab5b20fd6e07bfa306eeeedc34ee37ba8e58449db5eb5",
+      "bytes": 15301
+    },
+    {
+      "path": "src/web-export/compatibility/README.md",
+      "sha256": "787b43159c65c8e9d08396696f0abd6ae7436e9f018ae3f45fecaa3908ed6eb6",
+      "bytes": 4248
+    },
+    {
+      "path": "src/web-export/compatibility/cache.js",
+      "sha256": "7ec1b81d8e4c48cab5581059271c74508ceb4d2d8b6ab64db86d203d37145ed8",
+      "bytes": 5776
+    },
+    {
+      "path": "src/web-export/compatibility/cached-project.js",
+      "sha256": "194a13b127f6d29abb860587010257bb7b1448569e0b7476bd5ba98aaae30dd4",
+      "bytes": 4914
+    },
+    {
+      "path": "src/web-export/compatibility/contract.json",
+      "sha256": "65363ae8ac07f6c217b51aa4a0726be65b9e3ba8364bf23a6460e2e57f5d46f6",
+      "bytes": 17952
+    },
+    {
+      "path": "src/web-export/compatibility/index.js",
+      "sha256": "01a47c40e7f013b64255bfea2ba8cbb363955b2c702baccadba0059890a3f9f8",
+      "bytes": 13450
+    },
+    {
+      "path": "src/web-export/compatibility/maven-artifacts.json",
+      "sha256": "1940c36a67055249f6023f74e970df39de8642286677cd029152d455a136c0c8",
+      "bytes": 291858
+    },
+    {
+      "path": "src/web-export/compatibility/maven-distribution.js",
+      "sha256": "be96b3038ef129722afca91ac46a860349f97265c76c3073959314a5eae9b68f",
+      "bytes": 9389
+    },
+    {
+      "path": "src/web-export/compatibility/maven-distribution.json",
+      "sha256": "705314ac8a92b7c44fdb94dd13c0d69cd48a4aed372f1bb75daecd538497d5d7",
+      "bytes": 17828
+    },
+    {
+      "path": "src/web-export/index.js",
+      "sha256": "f2a525321ea5fb06192315bca9a2a29a0dc51dca9b00807850bd2c705f30e2b7",
+      "bytes": 26733
+    },
+    {
+      "path": "src/web-export/libraries.js",
+      "sha256": "d7d2b1c7ee55deab65596d075378499f022afc8cd8c7c45b551f73c59c554674",
+      "bytes": 7969
+    },
+    {
+      "path": "src/web-export/notices/Apache-2.0.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    },
+    {
+      "path": "src/web-export/notices/GWT-Time-ThreeTen-BSD-3-Clause.txt",
+      "sha256": "d1bc53b493a3ab387b42717ed5c4b1976a5048996f81154278100bff86d39331",
+      "bytes": 1520
+    },
+    {
+      "path": "src/web-export/notices/OpenJFX-ADDITIONAL-LICENSE-INFO.txt",
+      "sha256": "69369283a3e40c098832bf4fd4fe38c7b780679a2a58d8f32fa892f639ed8424",
+      "bytes": 2086
+    },
+    {
+      "path": "src/web-export/notices/OpenJFX-GPL-2.0-with-Classpath-Exception.txt",
+      "sha256": "4b9abebc4338048a7c2dc184e9f800deb349366bdf28eb23c2677a77b4c87726",
+      "bytes": 19274
+    },
+    {
+      "path": "src/web-export/notices/Perfect-Scrollbar-MIT.txt",
+      "sha256": "58ca49a0a0917f046518fd93f6415f197303a7fd06ae52a217d7ec0e7e07b76f",
+      "bytes": 1122
+    },
+    {
+      "path": "src/web-export/notices/THIRD-PARTY-NOTICES.txt",
+      "sha256": "cb29fa97976bc038161eacdafd3fecb44e52773ab59b7e076f20a99b67661ce6",
+      "bytes": 1157
+    },
+    {
+      "path": "src/web-export/notices/Zero-MIT.txt",
+      "sha256": "a7c5bf5f4c37804435c8c763c4e7e7b08dca4b2af128f22e5a543cf8eee7d96f",
+      "bytes": 1069
+    },
+    {
+      "path": "src/web-export/project.js",
+      "sha256": "8e8bccca9771968ef4dca600d6a28319f63629c86c675d66b6a51549b974ddce",
+      "bytes": 10160
+    },
+    {
+      "path": "src/web-export/snapshot.js",
+      "sha256": "ed44735980e90d726481cfaccd02f3883fcc6d843aa885bf7167c98a38287699",
+      "bytes": 17537
+    },
+    {
+      "path": "src/web-export/template/FxEvents.java",
+      "sha256": "9c4a0281018d1882cf2b8c9f68cdcb2e285dad677929c5100f027363bb4918ab",
+      "bytes": 4127
+    },
+    {
+      "path": "src/web-export/template/GwtEmbedResourcesBundle.java",
+      "sha256": "39846157c44bd08a68e0959e3f098d45857bd6bf01e1e89294841dc310441349",
+      "bytes": 769
+    },
+    {
+      "path": "src/web-export/template/GwtEntryPoint.java",
+      "sha256": "3328e77e57d4576ff2c916145fe9f0842e3ba320d659c520a88f8a4d1257573e",
+      "bytes": 3107
+    },
+    {
+      "path": "src/web-export/template/main.css",
+      "sha256": "c28fa206bb9d77bf7da91db8ae346dcce93bab7e940ba33d1105e91561e096bc",
+      "bytes": 15436
+    },
+    {
+      "path": "src/web-export/template/module.gwt.xml",
+      "sha256": "d314eaa490b3e80d947e05845df9881484411f8683eb897234acec1d0e72f2ed",
+      "bytes": 8089
+    },
+    {
+      "path": "src/web-export/toolchain-lock.json",
+      "sha256": "cba5a0baed41ab22bd7f6d47f3b17a28d2cea42af6694c6ff2902208097c5d90",
+      "bytes": 20255
+    },
+    {
+      "path": "src/web-export/zip.js",
+      "sha256": "5eb40855f63c59fdf9da9e65babc06c72cee0f3d518347da2bae5f2c27eea19a",
+      "bytes": 1796
+    }
+  ],
+  "closureSha256": "7d3d7a27446fe6ab4c6f5f5fd15f486c81d3eb5ba67fc703c2e0b9f9c36a5b3c"
+}

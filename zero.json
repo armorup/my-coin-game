@@ -1,0 +1,8 @@
+{
+  "name": "Coin game",
+  "templateVersion": "0.1.0",
+  "mainClass": "Main",
+  "repositoryRequired": true,
+  "tutorialProjectId": "game",
+  "lessonId": "8"
+}
